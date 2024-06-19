@@ -6,7 +6,7 @@ const allureWriter = require('@shelex/cypress-allure-plugin/writer');
 const fs = require('fs');
 
 module.exports = defineConfig({
-  projectId: "xxx",
+  projectId: "cu9v15",
   video: false,
   e2e: {
     defaultCommandTimeout: 45000,
